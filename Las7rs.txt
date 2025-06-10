@@ -1,0 +1,128 @@
+<html>
+<head>
+<title>Las 7R’s En Mi Comunidad.
+</title>
+<style>
+body {background-color: #f3fdf3;
+font-family: Arial, sans-serif;}
+a {color: #2f6d2f;
+  text-decoration: none;}
+a:hover {text-decoration: underline;}
+h1, h2 {color: #2f6d2f;}
+h3 {color: #000000;
+  font-weight: normal;}
+figure img, video {border-radius: 10px;
+  max-width: 95%;
+  height: auto;
+  margin-top: 1rem;}
+details {display: block;
+  text-align: left;
+  max-width: 800px;
+  margin: 1rem auto;
+  background-color: #e0f2e0;
+  padding: 1rem;
+  border-radius: 8px;}
+summary {font-weight: bold;
+  cursor: pointer;
+  color: #2f6d2f;
+  font-size: 1.1rem;}
+p {margin: 0.5rem 0;}
+</style>
+</head>
+<body>
+<header style="text-align: center; background-color: #88b04b; color: white; padding: 2rem;">
+<h1>🌿 Las 7R’s en mi Comunidad :) </h1>
+<p> Conoce más acerca de cómo podemos cuidar el planeta desde nuestra comunidad aplicando las 7Rs del reciclaje para un futuro más sostenible. </p>
+</header>
+<audio controls>
+<source src="yung kai - blue (Official Audio).mp3" type="audio/mpeg">
+</audio>
+<figcaption> Derechos de autor a Yung Kai.</figcaption>
+<div id="que son las 7rs" style="text-align: center;">
+<h1 style="color: strong green"> ¿QUÉ SON LAS 7R’s? </h1>
+<h3> 
+Las 7Rs son un marco de trabajo que ha sido reconocido e impulsado por gobiernos, empresas e instituciones en los últimos años. Las 7Rs consisten en 7 prácticas: reducir, reusar, reciclar, rechazar, repensar, reparar y regenerar. Conocer las 7Rs supone saber cuál es su significado y hacer referencia a las acciones necesarias para alcanzar el cambio hacia una economía circular. Son 7 principios en los que se basa el reciclaje y la economía circular. Las 7R son factores que orientan tanto a las empresas como a los ciudadanos sobre las acciones que se pueden implementar para reducir el impacto ambiental. 
+</h3>
+<details>
+<summary> Aquí están las 7R's: </summary>
+<p><b>Rediseñar:</b> Repensar cómo se fabrican los productos para que sean más ecológicos y duraderos.</p>
+<p><b>Reducir:</b> Disminuir el uso de materiales innecesarios como bolsas, empaques o productos desechables.</p>
+<p><b>Reutilizar:</b> Aprovechar objetos más de una vez, como botellas, frascos o ropa.</p>
+<p><b>Reciclar:</b> Transformar materiales usados en nuevos productos.</p>
+<p><b>Reparar:</b> Arreglar objetos dañados para alargar su vida útil.</p>
+<p><b>Recuperar:</b> Aprovechar materiales o energía que se desecharían.</p>
+<p><b>Rechazar:</b> Evitar productos que no respeten el medio ambiente.</p>
+</details>
+</div>
+<div id="educacion" style="text-align: center;">
+<h1 style="color: strong green"> ¿QUÉ ES LA EDUCACIÓN AMBIENTAL? </h1>
+<h3>
+La educación ambiental es un proceso dirigido a formar individuos conscientes y responsables de su entorno ecológico. Se busca dotar a las personas de los conocimientos, capacidades y actitudes necesarios para entender y resolver las problemáticas ambientales de su comunidad. Es un campo multidisciplinario que integra conceptos de las ciencias naturales, ciencias sociales y humanidades para promover una comprensión integral del medio ambiente y fomentar prácticas sostenibles.
+</h3>
+<figure>
+<img src="maceta.jpg" alt="Imagen de una planta Monstera Deliciosa" widht"500" height"700"> </img>
+<figcaption> Créditos De La Imagen A Pinterest. </figcaption>
+</figure>
+</div>
+<div id="participacion" style="text-align: center;">
+<h1 style="color: strong green"> LA PARTICIPACIÓN CIUDADANA: </h1>
+<h3>
+La participación ciudadana es crucial para implementar las 7Rs en México. La SEMARNAT enfatiza la integración de propuestas ciudadanas en acciones gubernamentales, promoviendo el diálogo y la justicia ambiental. COPARMEX destaca que las políticas públicas deben incorporar las voces ciudadanas para el bien común, y el Tecnológico de Monterrey subraya la importancia de la educación y sensibilización para la separación de residuos. Para expandir un poco más, la participación ciudadana en las 7Rs implica que los ciudadanos no solo sigan las directrices de reciclaje y reducción, sino que también se involucren activamente en la creación de políticas y programas ambientales. Esto incluye participar en consultas públicas, proponer soluciones innovadoras para la gestión de residuos y exigir transparencia y rendición de cuentas a las autoridades. Además, la educación ambiental juega un papel clave, ya que ciudadanos informados pueden tomar decisiones más conscientes y promover prácticas sostenibles en sus comunidades. La colaboración entre el gobierno, las empresas y la sociedad civil es esencial para lograr un impacto significativo en la sostenibilidad y la economía circular en México.
+</h3>
+<video src="paisaje1.mp4" controls loop></video>
+</div>
+<div id="beneficios" style="text-align: center;">
+<h1 style="color: strong green"> 🌼BENEFICIOS AMBIENTALES Y SOCIALES: </h1>
+<h3>
+Profundizando en los beneficios sociales y ambientales de la participación ciudadana en las 7Rs, podemos destacar que ambientalmente, esta participación no solo reduce la contaminación y conserva recursos, sino que también impulsa la innovación en tecnologías y prácticas sostenibles. Por ejemplo, al fomentar la reutilización y el reciclaje, se crean mercados para materiales reciclados, incentivando la economía circular. Socialmente, la participación ciudadana va más allá de la conciencia ambiental; fortalece la gobernanza ambiental al empoderar a las comunidades para exigir responsabilidades a las empresas y gobiernos. Además, promueve la equidad social al garantizar que las políticas ambientales protejan a los grupos más vulnerables y marginados, asegurando que todos tengan acceso a un medio ambiente saludable y sostenible.
+</h3>
+<figure>
+<img src="circulo.jpg" alt="Beneficios ecológicos" width"600" height"600"> </img>
+</figure>
+</div>
+<div id="economia" style="text-align: center;">
+<h1 style="color: strong green"> 💵ECONOMÍA CIRCULAR: </h1>
+<h3>
+La economía circular es un modelo económico que busca minimizar los residuos y aprovechar al máximo los recursos. En lugar de seguir el modelo lineal tradicional de "tomar, hacer, desechar", la economía circular se basa en cerrar el ciclo de vida de los productos y materiales. Esto implica diseñar productos para que sean duraderos, reparables y reciclables, así como fomentar la reutilización, el reacondicionamiento y el reciclaje de materiales. Al adoptar la economía circular, se pueden reducir los impactos ambientales negativos, como la contaminación y la degradación de los recursos naturales, al tiempo que se generan oportunidades económicas y sociales, como la creación de empleos y la mejora de la eficiencia en el uso de los recursos.
+</h3>
+<figure>
+<img src="economíacircular.jpg" alt="Modelo de economía circular" width"400" height"400"> </img>
+</figure>
+</div>
+<div id="informacion" style="text-align: center;">
+<h1 style="color: strong green"> ¿DÓNDE NOS PODEMOS INFORMAR? </h1>
+<h3>
+Puedes buscar en internet cursos, blogs, videos y artículos que explican cómo aplicar las 7Rs. Aquí te dejo algunos recursos útiles que espero que te puedan servir mucho:
+</h3>
+<h3>
+<a href="https://eabmodel12.blogspot.com/p/curso-online-reutilizar_4.html" target="_blank">Curso online sobre reciclaje</a><br>
+<a href="https://www.gob.mx/semarnat/articulos/sumate-al-reciclaje" target="_blank"> Aquí está información en la página oficial del gobierno de México</a>
+</h3>
+<video src="mariposas.mp4" controls loop></video>
+</div>
+<div id="empezar" style="text-align: center;">
+<h1 style="color: strong green"> ¿POR QUÉ PODEMOS EMPEZAR? </h1>
+<h3>
+Para desarrollar las 7Rs, comienza por reducir tu consumo, eligiendo productos con menos embalaje y evitando los desechables. Luego, reutiliza objetos dándoles otro uso antes de desecharlos. Asegúrate de reciclar separando los materiales adecuados para su procesamiento. Recupera materiales donando aquellos que ya no necesitas o encontrando nuevas formas de darles una segunda vida. Reflexiona sobre tus hábitos de consumo, optando por productos duraderos y de calidad. Reestructura tus procesos diarios para hacerlos más sostenibles. Finalmente, redistribuye recursos compartiendo con otros lo que ya no utilizas y fomentando prácticas sostenibles en tu comunidad. ¡Haz la diferencia desde hoy, cada cambio cuenta!
+</h3>
+</div>
+<div id="multimedia" style="text-align: center;">
+<dive class="<h2> MI CONTENIDO MULTIMEDIA </h2>">
+<figure>
+<video src="margaritas.mp4" widht"500" height"800" controls></video>
+<figcaption> Créditos de este video a TikTok.</figcaption>
+</figure>
+<figure>
+<img src="pinterest1.jpg" width"150" height"200" alt="Mi imagen sobre reutilización">
+<figcaption>Hoy, mañana y siempre podemos mejorar.</figcaption>
+</figure>
+<figure>
+<video src="economiac.mp4" widht"200" height"250" controls></video>
+<figcaption> Créditos a TikTok.</figcaption>
+</figure>
+</div>
+<footer style="background-color: #88b04b; color: white; text-align: center; padding: 1rem; margin-top: 2rem;">
+<p>Creado por Jimena Sandoval del grupo 602. Proyecto de Reparación Ambiental Las 7R’s🌱</p>
+</footer>
+</body>
+</html>
